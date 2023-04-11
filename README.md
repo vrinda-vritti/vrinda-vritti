@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vrinda-vritti
-- 👀 I’m interested in A.I !
-- 🌱 I’m currently learning python and c++.
-- 💞️ I’m looking to collaborate on a beginner project using python.
+- 👀 CSE-AI second year student !
+- 💞️ I’m looking to collaborate on a machine learning projects.
 
 <!---
 vrinda-vritti/vrinda-vritti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
